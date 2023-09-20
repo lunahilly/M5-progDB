@@ -1,0 +1,10 @@
+select --- hij kan dingen selecteren, wel keizen
+insert --- hij kan dingen toevoegen, niet kiezen
+execute --- hij kan dingen uitvoeren, niet kiezen
+
+
+update --- hij kan updaten, niet kiezen                 
+nodig als je een update in je software moet doorvoeren --- een hacker zou hiermee de code kunnen veranderen en doorvoeren als update waardoor iedereen het meteen op zij/haar device heeft
+
+delete --- hij kan dingen verwijderen, niet kiezen
+als je de code of andere dingen moet verwijderen --- een hacker kan hiermee de software slopen of verwijderen.
