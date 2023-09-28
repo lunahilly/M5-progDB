@@ -1,0 +1,7 @@
+bedrijfadress : Haarlem, Wagenweg 100 A, 2012 NH 
+
+variable; stad, straat, nummer, letter, postcode.
+
+stad : string,, straat : string,, nummer: int,, letter : string,, postcode : string
+
+hij mag niet 0 zijn, het is one of a kind
